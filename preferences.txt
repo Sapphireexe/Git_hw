@@ -1,0 +1,5 @@
+FavoriteMovie: Blade Runner 2049
+FavoriteSeries: Halo
+FavoriteFood: Chocolate
+FavoriteSeason: Autumn
+CountryToVisit: Canada

@@ -1,0 +1,7 @@
+Git SCM
+JS
+TS
+WDIO
+Cucumber
+Playwright
+CI/CD
