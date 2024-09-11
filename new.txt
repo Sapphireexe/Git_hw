@@ -1,0 +1,4 @@
+Name: Obukhov Anatoly Evgenevich
+Age: 36
+Pets: 2 cats, 1 dog
+FutureSalary: $5000
